@@ -1,0 +1,2 @@
+[Shift]Hello, [Shift]World[Shift]1[Return]
+dkg[Tab][CapsLock]FKSD [CapsLock][Delete][Backspace]
